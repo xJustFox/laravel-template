@@ -3,5 +3,5 @@
 
 ### Remember to run:
 - php composer install
-- npm i
+- npm i (node_modules)
 - add the .env file
